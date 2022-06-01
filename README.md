@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/jrmazalli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrmazalli&show_icons=true&theme=default&include_all_commits=true&count_public=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmazalli&layout=compact&langs_count=7&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrmazalli&show_icons=true&theme=dracula&include_all_commits=true&count_public=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmazalli&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
